@@ -87,7 +87,7 @@ namespace Backgammon
         int xIndex = 0;
         int yIndex = 0;
 
-
+        // test comment
         private void SetStonePosition(CircularPictureBox stone)
         {
 
