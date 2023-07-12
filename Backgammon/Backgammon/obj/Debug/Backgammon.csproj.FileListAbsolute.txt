@@ -9,3 +9,14 @@ C:\Programování\C#\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.GenerateR
 C:\Programování\C#\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.CoreCompileInputs.cache
 C:\Programování\C#\Backgammon\Backgammon\obj\Debug\Backgammon.exe
 C:\Programování\C#\Backgammon\Backgammon\obj\Debug\Backgammon.pdb
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\bin\Debug\Backgammon.exe.config
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\bin\Debug\Backgammon.exe
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\bin\Debug\Backgammon.pdb
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.AssemblyReference.cache
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.SuggestedBindingRedirects.cache
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\obj\Debug\Backgammon.Form1.resources
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\obj\Debug\Backgammon.Properties.Resources.resources
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.GenerateResource.cache
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.CoreCompileInputs.cache
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\obj\Debug\Backgammon.exe
+C:\Programování\C# repository\Backgammon\Backgammon\Backgammon\obj\Debug\Backgammon.pdb
