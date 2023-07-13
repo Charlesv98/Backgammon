@@ -731,6 +731,7 @@
             this.BlackStone1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.BlackStone1.TabIndex = 26;
             this.BlackStone1.TabStop = false;
+            
             // 
             // Form1
             // 
