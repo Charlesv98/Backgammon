@@ -22,13 +22,11 @@ namespace Backgammon
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            // pro začátek bude začínat hráč 1 pak udělám házení kostkami
-            // vytvořit objekt board
-            // střídání hráčů 
-            // handle/while dokud hra neskončí
-            // házení kostek    
-            Console.ReadLine();
-
+               
+            
+            
+            
+            //Console.ReadLine();
         }
     
 

@@ -12,23 +12,69 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Backgammon
 {
-    public class Board
+    public class Board 
     {
+        public Player playerOne;
+        public Player playerTwo;
 
-
-        private Stack<bool>[] boardArray;
+        private Stack<Stone>[] boardArray;
         public void InitializeBoard()
+
         {
 
-            boardArray = new Stack<bool>[23];
+            boardArray = new Stack<Stone>[23];
             for (int i = 0; i < 23; i++)
             {
-                boardArray[i] = new Stack<bool>(5);
+                boardArray[i] = new Stack<Stone>(5);
             }
+
+            
         }
 
         private void InitializePositions()
         {
+            // black
+            for (int i = 0; i < 1; i++)
+            {
+
+                boardArray[0].Push(false);
+            }
+
+            for (int i = 0; i < 4; i++)
+            {
+                boardArray[5].Push(false);
+            }
+
+            for (int i = 0; i < 2; i++)
+            {
+                boardArray[7].Push(false);
+            }
+
+            for (int i = 0; i < 4; i++)
+            {
+                boardArray[11].Push(false);
+            }
+
+            for (int i = 0; i < 4; i++)
+            {
+                boardArray[12].Push(false);
+            }
+
+            for (int i = 0; i < 2; i++)
+            {
+                boardArray[16].Push(false);
+            }
+
+            for (int i = 0; i < 4; i++)
+            {
+                boardArray[18].Push(false);
+            }
+
+            for (int i = 0; i < 1; i++)
+            {
+                boardArray[23].Push(false);
+            }
+            // white
             for (int i = 0; i < 1; i++)
             {
                 boardArray[0].Push(false);
