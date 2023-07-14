@@ -28,399 +28,399 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.BlackHouse = new System.Windows.Forms.PictureBox();
-            this.WhiteHouse = new System.Windows.Forms.PictureBox();
-            this.Prison = new System.Windows.Forms.PictureBox();
-            this.Spike24 = new System.Windows.Forms.PictureBox();
-            this.Spike23 = new System.Windows.Forms.PictureBox();
-            this.Spike22 = new System.Windows.Forms.PictureBox();
-            this.Spike21 = new System.Windows.Forms.PictureBox();
-            this.Spike20 = new System.Windows.Forms.PictureBox();
-            this.Spike19 = new System.Windows.Forms.PictureBox();
-            this.Spike18 = new System.Windows.Forms.PictureBox();
-            this.Spike17 = new System.Windows.Forms.PictureBox();
-            this.Spike16 = new System.Windows.Forms.PictureBox();
-            this.Spike15 = new System.Windows.Forms.PictureBox();
-            this.Spike14 = new System.Windows.Forms.PictureBox();
-            this.Spike13 = new System.Windows.Forms.PictureBox();
-            this.Spike12 = new System.Windows.Forms.PictureBox();
-            this.Spike11 = new System.Windows.Forms.PictureBox();
-            this.Spike10 = new System.Windows.Forms.PictureBox();
-            this.Spike9 = new System.Windows.Forms.PictureBox();
-            this.Spike8 = new System.Windows.Forms.PictureBox();
-            this.Spike7 = new System.Windows.Forms.PictureBox();
-            this.Spike6 = new System.Windows.Forms.PictureBox();
-            this.Spike5 = new System.Windows.Forms.PictureBox();
-            this.Spike4 = new System.Windows.Forms.PictureBox();
-            this.Spike3 = new System.Windows.Forms.PictureBox();
-            this.Spike2 = new System.Windows.Forms.PictureBox();
-            this.Spike1 = new System.Windows.Forms.PictureBox();
-            this.Dices = new System.Windows.Forms.PictureBox();
+            this.blackHouse = new System.Windows.Forms.PictureBox();
+            this.whiteHouse = new System.Windows.Forms.PictureBox();
+            this.prison = new System.Windows.Forms.PictureBox();
+            this.spike24 = new System.Windows.Forms.PictureBox();
+            this.spike23 = new System.Windows.Forms.PictureBox();
+            this.spike22 = new System.Windows.Forms.PictureBox();
+            this.spike21 = new System.Windows.Forms.PictureBox();
+            this.spike20 = new System.Windows.Forms.PictureBox();
+            this.spike19 = new System.Windows.Forms.PictureBox();
+            this.spike18 = new System.Windows.Forms.PictureBox();
+            this.spike17 = new System.Windows.Forms.PictureBox();
+            this.spike16 = new System.Windows.Forms.PictureBox();
+            this.spike15 = new System.Windows.Forms.PictureBox();
+            this.spike14 = new System.Windows.Forms.PictureBox();
+            this.spike13 = new System.Windows.Forms.PictureBox();
+            this.spike12 = new System.Windows.Forms.PictureBox();
+            this.spike11 = new System.Windows.Forms.PictureBox();
+            this.spike10 = new System.Windows.Forms.PictureBox();
+            this.spike9 = new System.Windows.Forms.PictureBox();
+            this.spike8 = new System.Windows.Forms.PictureBox();
+            this.spike7 = new System.Windows.Forms.PictureBox();
+            this.spike6 = new System.Windows.Forms.PictureBox();
+            this.spike5 = new System.Windows.Forms.PictureBox();
+            this.spike4 = new System.Windows.Forms.PictureBox();
+            this.spike3 = new System.Windows.Forms.PictureBox();
+            this.spike2 = new System.Windows.Forms.PictureBox();
+            this.spike1 = new System.Windows.Forms.PictureBox();
+            this.dices = new System.Windows.Forms.PictureBox();
             this.Throw = new System.Windows.Forms.Button();
-            this.WhiteStone13 = new Backgammon.CircularPictureBox();
-            this.WhiteStone11 = new Backgammon.CircularPictureBox();
-            this.WhiteStone1 = new Backgammon.CircularPictureBox();
-            this.WhiteStone15 = new Backgammon.CircularPictureBox();
-            this.WhiteStone14 = new Backgammon.CircularPictureBox();
-            this.WhiteStone12 = new Backgammon.CircularPictureBox();
-            this.WhiteStone10 = new Backgammon.CircularPictureBox();
-            this.WhiteStone9 = new Backgammon.CircularPictureBox();
-            this.WhiteStone8 = new Backgammon.CircularPictureBox();
-            this.WhiteStone5 = new Backgammon.CircularPictureBox();
-            this.WhiteStone4 = new Backgammon.CircularPictureBox();
-            this.WhiteStone3 = new Backgammon.CircularPictureBox();
-            this.WhiteStone7 = new Backgammon.CircularPictureBox();
-            this.WhiteStone6 = new Backgammon.CircularPictureBox();
-            this.WhiteStone2 = new Backgammon.CircularPictureBox();
-            this.BlackStone11 = new Backgammon.CircularPictureBox();
-            this.BlackStone13 = new Backgammon.CircularPictureBox();
-            this.BlackStone12 = new Backgammon.CircularPictureBox();
-            this.BlackStone15 = new Backgammon.CircularPictureBox();
-            this.BlackStone8 = new Backgammon.CircularPictureBox();
-            this.BlackStone9 = new Backgammon.CircularPictureBox();
-            this.BlackStone6 = new Backgammon.CircularPictureBox();
-            this.BlackStone7 = new Backgammon.CircularPictureBox();
-            this.BlackStone10 = new Backgammon.CircularPictureBox();
-            this.BlackStone5 = new Backgammon.CircularPictureBox();
-            this.BlackStone4 = new Backgammon.CircularPictureBox();
-            this.BlackStone3 = new Backgammon.CircularPictureBox();
-            this.BlackStone14 = new Backgammon.CircularPictureBox();
-            this.BlackStone2 = new Backgammon.CircularPictureBox();
-            this.BlackStone1 = new Backgammon.CircularPictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackHouse)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteHouse)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Prison)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike24)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike23)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike22)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike21)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike20)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike19)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike18)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike17)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike16)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike15)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike14)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Dices)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone15)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone14)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone15)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone14)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone1)).BeginInit();
+            this.whiteStone13 = new Backgammon.CircularPictureBox();
+            this.whiteStone11 = new Backgammon.CircularPictureBox();
+            this.whiteStone1 = new Backgammon.CircularPictureBox();
+            this.whiteStone15 = new Backgammon.CircularPictureBox();
+            this.whiteStone14 = new Backgammon.CircularPictureBox();
+            this.whiteStone12 = new Backgammon.CircularPictureBox();
+            this.whiteStone10 = new Backgammon.CircularPictureBox();
+            this.whiteStone9 = new Backgammon.CircularPictureBox();
+            this.whiteStone8 = new Backgammon.CircularPictureBox();
+            this.whiteStone5 = new Backgammon.CircularPictureBox();
+            this.whiteStone4 = new Backgammon.CircularPictureBox();
+            this.whiteStone3 = new Backgammon.CircularPictureBox();
+            this.whiteStone7 = new Backgammon.CircularPictureBox();
+            this.whiteStone6 = new Backgammon.CircularPictureBox();
+            this.whiteStone2 = new Backgammon.CircularPictureBox();
+            this.blackStone11 = new Backgammon.CircularPictureBox();
+            this.blackStone13 = new Backgammon.CircularPictureBox();
+            this.blackStone12 = new Backgammon.CircularPictureBox();
+            this.blackStone15 = new Backgammon.CircularPictureBox();
+            this.blackStone8 = new Backgammon.CircularPictureBox();
+            this.blackStone9 = new Backgammon.CircularPictureBox();
+            this.blackStone6 = new Backgammon.CircularPictureBox();
+            this.blackStone7 = new Backgammon.CircularPictureBox();
+            this.blackStone10 = new Backgammon.CircularPictureBox();
+            this.blackStone5 = new Backgammon.CircularPictureBox();
+            this.blackStone4 = new Backgammon.CircularPictureBox();
+            this.blackStone3 = new Backgammon.CircularPictureBox();
+            this.blackStone14 = new Backgammon.CircularPictureBox();
+            this.blackStone2 = new Backgammon.CircularPictureBox();
+            this.blackStone1 = new Backgammon.CircularPictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.blackHouse)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteHouse)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.prison)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike24)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike23)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike22)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike21)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike20)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike19)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike18)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike17)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike16)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike15)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dices)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone15)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone15)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone1)).BeginInit();
             this.SuspendLayout();
             // 
-            // BlackHouse
+            // blackHouse
             // 
-            this.BlackHouse.Location = new System.Drawing.Point(1044, 433);
-            this.BlackHouse.Name = "BlackHouse";
-            this.BlackHouse.Size = new System.Drawing.Size(100, 380);
-            this.BlackHouse.TabIndex = 25;
-            this.BlackHouse.TabStop = false;
-            this.BlackHouse.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox27_Paint);
+            this.blackHouse.Location = new System.Drawing.Point(1044, 433);
+            this.blackHouse.Name = "blackHouse";
+            this.blackHouse.Size = new System.Drawing.Size(100, 380);
+            this.blackHouse.TabIndex = 25;
+            this.blackHouse.TabStop = false;
+            this.blackHouse.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox27_Paint);
             // 
-            // WhiteHouse
+            // whiteHouse
             // 
-            this.WhiteHouse.Location = new System.Drawing.Point(1044, 38);
-            this.WhiteHouse.Name = "WhiteHouse";
-            this.WhiteHouse.Size = new System.Drawing.Size(100, 380);
-            this.WhiteHouse.TabIndex = 24;
-            this.WhiteHouse.TabStop = false;
-            this.WhiteHouse.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox26_Paint);
+            this.whiteHouse.Location = new System.Drawing.Point(1044, 38);
+            this.whiteHouse.Name = "whiteHouse";
+            this.whiteHouse.Size = new System.Drawing.Size(100, 380);
+            this.whiteHouse.TabIndex = 24;
+            this.whiteHouse.TabStop = false;
+            this.whiteHouse.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox26_Paint);
             // 
-            // Prison
+            // prison
             // 
-            this.Prison.Location = new System.Drawing.Point(493, 38);
-            this.Prison.Name = "Prison";
-            this.Prison.Size = new System.Drawing.Size(50, 775);
-            this.Prison.TabIndex = 23;
-            this.Prison.TabStop = false;
-            this.Prison.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox25_Paint);
+            this.prison.Location = new System.Drawing.Point(493, 38);
+            this.prison.Name = "prison";
+            this.prison.Size = new System.Drawing.Size(50, 775);
+            this.prison.TabIndex = 23;
+            this.prison.TabStop = false;
+            this.prison.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox25_Paint);
             // 
-            // Spike24
+            // spike24
             // 
-            this.Spike24.Location = new System.Drawing.Point(943, 38);
-            this.Spike24.Name = "Spike24";
-            this.Spike24.Size = new System.Drawing.Size(50, 380);
-            this.Spike24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike24.TabIndex = 22;
-            this.Spike24.TabStop = false;
-            this.Spike24.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox24_Paint);
+            this.spike24.Location = new System.Drawing.Point(943, 38);
+            this.spike24.Name = "spike24";
+            this.spike24.Size = new System.Drawing.Size(50, 380);
+            this.spike24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike24.TabIndex = 22;
+            this.spike24.TabStop = false;
+            this.spike24.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox24_Paint);
             // 
-            // Spike23
+            // spike23
             // 
-            this.Spike23.Location = new System.Drawing.Point(793, 38);
-            this.Spike23.Name = "Spike23";
-            this.Spike23.Size = new System.Drawing.Size(50, 380);
-            this.Spike23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike23.TabIndex = 21;
-            this.Spike23.TabStop = false;
-            this.Spike23.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox23_Paint);
+            this.spike23.Location = new System.Drawing.Point(793, 38);
+            this.spike23.Name = "spike23";
+            this.spike23.Size = new System.Drawing.Size(50, 380);
+            this.spike23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike23.TabIndex = 21;
+            this.spike23.TabStop = false;
+            this.spike23.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox23_Paint);
             // 
-            // Spike22
+            // spike22
             // 
-            this.Spike22.Location = new System.Drawing.Point(868, 38);
-            this.Spike22.Name = "Spike22";
-            this.Spike22.Size = new System.Drawing.Size(50, 380);
-            this.Spike22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike22.TabIndex = 21;
-            this.Spike22.TabStop = false;
-            this.Spike22.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox22_Paint);
+            this.spike22.Location = new System.Drawing.Point(868, 38);
+            this.spike22.Name = "spike22";
+            this.spike22.Size = new System.Drawing.Size(50, 380);
+            this.spike22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike22.TabIndex = 21;
+            this.spike22.TabStop = false;
+            this.spike22.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox22_Paint);
             // 
-            // Spike21
+            // spike21
             // 
-            this.Spike21.Location = new System.Drawing.Point(718, 38);
-            this.Spike21.Name = "Spike21";
-            this.Spike21.Size = new System.Drawing.Size(50, 380);
-            this.Spike21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike21.TabIndex = 20;
-            this.Spike21.TabStop = false;
-            this.Spike21.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox21_Paint);
+            this.spike21.Location = new System.Drawing.Point(718, 38);
+            this.spike21.Name = "spike21";
+            this.spike21.Size = new System.Drawing.Size(50, 380);
+            this.spike21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike21.TabIndex = 20;
+            this.spike21.TabStop = false;
+            this.spike21.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox21_Paint);
             // 
-            // Spike20
+            // spike20
             // 
-            this.Spike20.Location = new System.Drawing.Point(643, 38);
-            this.Spike20.Name = "Spike20";
-            this.Spike20.Size = new System.Drawing.Size(50, 380);
-            this.Spike20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike20.TabIndex = 19;
-            this.Spike20.TabStop = false;
-            this.Spike20.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox20_Paint);
+            this.spike20.Location = new System.Drawing.Point(643, 38);
+            this.spike20.Name = "spike20";
+            this.spike20.Size = new System.Drawing.Size(50, 380);
+            this.spike20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike20.TabIndex = 19;
+            this.spike20.TabStop = false;
+            this.spike20.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox20_Paint);
             // 
-            // Spike19
+            // spike19
             // 
-            this.Spike19.Location = new System.Drawing.Point(568, 38);
-            this.Spike19.Name = "Spike19";
-            this.Spike19.Size = new System.Drawing.Size(50, 380);
-            this.Spike19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike19.TabIndex = 18;
-            this.Spike19.TabStop = false;
-            this.Spike19.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox19_Paint);
+            this.spike19.Location = new System.Drawing.Point(568, 38);
+            this.spike19.Name = "spike19";
+            this.spike19.Size = new System.Drawing.Size(50, 380);
+            this.spike19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike19.TabIndex = 18;
+            this.spike19.TabStop = false;
+            this.spike19.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox19_Paint);
             // 
-            // Spike18
+            // spike18
             // 
-            this.Spike18.Location = new System.Drawing.Point(418, 38);
-            this.Spike18.Name = "Spike18";
-            this.Spike18.Size = new System.Drawing.Size(50, 380);
-            this.Spike18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike18.TabIndex = 17;
-            this.Spike18.TabStop = false;
-            this.Spike18.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox18_Paint);
+            this.spike18.Location = new System.Drawing.Point(418, 38);
+            this.spike18.Name = "spike18";
+            this.spike18.Size = new System.Drawing.Size(50, 380);
+            this.spike18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike18.TabIndex = 17;
+            this.spike18.TabStop = false;
+            this.spike18.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox18_Paint);
             // 
-            // Spike17
+            // spike17
             // 
-            this.Spike17.Location = new System.Drawing.Point(343, 38);
-            this.Spike17.Name = "Spike17";
-            this.Spike17.Size = new System.Drawing.Size(50, 380);
-            this.Spike17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike17.TabIndex = 16;
-            this.Spike17.TabStop = false;
-            this.Spike17.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox17_Paint);
+            this.spike17.Location = new System.Drawing.Point(343, 38);
+            this.spike17.Name = "spike17";
+            this.spike17.Size = new System.Drawing.Size(50, 380);
+            this.spike17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike17.TabIndex = 16;
+            this.spike17.TabStop = false;
+            this.spike17.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox17_Paint);
             // 
-            // Spike16
+            // spike16
             // 
-            this.Spike16.Location = new System.Drawing.Point(268, 38);
-            this.Spike16.Name = "Spike16";
-            this.Spike16.Size = new System.Drawing.Size(50, 380);
-            this.Spike16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike16.TabIndex = 15;
-            this.Spike16.TabStop = false;
-            this.Spike16.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox16_Paint);
+            this.spike16.Location = new System.Drawing.Point(268, 38);
+            this.spike16.Name = "spike16";
+            this.spike16.Size = new System.Drawing.Size(50, 380);
+            this.spike16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike16.TabIndex = 15;
+            this.spike16.TabStop = false;
+            this.spike16.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox16_Paint);
             // 
-            // Spike15
+            // spike15
             // 
-            this.Spike15.Location = new System.Drawing.Point(193, 38);
-            this.Spike15.Name = "Spike15";
-            this.Spike15.Size = new System.Drawing.Size(50, 380);
-            this.Spike15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike15.TabIndex = 14;
-            this.Spike15.TabStop = false;
-            this.Spike15.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox15_Paint);
+            this.spike15.Location = new System.Drawing.Point(193, 38);
+            this.spike15.Name = "spike15";
+            this.spike15.Size = new System.Drawing.Size(50, 380);
+            this.spike15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike15.TabIndex = 14;
+            this.spike15.TabStop = false;
+            this.spike15.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox15_Paint);
             // 
-            // Spike14
+            // spike14
             // 
-            this.Spike14.Location = new System.Drawing.Point(118, 38);
-            this.Spike14.Name = "Spike14";
-            this.Spike14.Size = new System.Drawing.Size(50, 380);
-            this.Spike14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike14.TabIndex = 13;
-            this.Spike14.TabStop = false;
-            this.Spike14.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox14_Paint);
+            this.spike14.Location = new System.Drawing.Point(118, 38);
+            this.spike14.Name = "spike14";
+            this.spike14.Size = new System.Drawing.Size(50, 380);
+            this.spike14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike14.TabIndex = 13;
+            this.spike14.TabStop = false;
+            this.spike14.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox14_Paint);
             // 
-            // Spike13
+            // spike13
             // 
-            this.Spike13.Location = new System.Drawing.Point(43, 38);
-            this.Spike13.Name = "Spike13";
-            this.Spike13.Size = new System.Drawing.Size(50, 380);
-            this.Spike13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike13.TabIndex = 12;
-            this.Spike13.TabStop = false;
-            this.Spike13.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox13_Paint);
+            this.spike13.Location = new System.Drawing.Point(43, 38);
+            this.spike13.Name = "spike13";
+            this.spike13.Size = new System.Drawing.Size(50, 380);
+            this.spike13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike13.TabIndex = 12;
+            this.spike13.TabStop = false;
+            this.spike13.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox13_Paint);
             // 
-            // Spike12
+            // spike12
             // 
-            this.Spike12.Location = new System.Drawing.Point(943, 433);
-            this.Spike12.Name = "Spike12";
-            this.Spike12.Size = new System.Drawing.Size(50, 380);
-            this.Spike12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike12.TabIndex = 11;
-            this.Spike12.TabStop = false;
-            this.Spike12.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox12_Paint);
+            this.spike12.Location = new System.Drawing.Point(943, 433);
+            this.spike12.Name = "spike12";
+            this.spike12.Size = new System.Drawing.Size(50, 380);
+            this.spike12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike12.TabIndex = 11;
+            this.spike12.TabStop = false;
+            this.spike12.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox12_Paint);
             // 
-            // Spike11
+            // spike11
             // 
-            this.Spike11.Location = new System.Drawing.Point(868, 433);
-            this.Spike11.Name = "Spike11";
-            this.Spike11.Size = new System.Drawing.Size(50, 380);
-            this.Spike11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike11.TabIndex = 10;
-            this.Spike11.TabStop = false;
-            this.Spike11.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox11_Paint);
+            this.spike11.Location = new System.Drawing.Point(868, 433);
+            this.spike11.Name = "spike11";
+            this.spike11.Size = new System.Drawing.Size(50, 380);
+            this.spike11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike11.TabIndex = 10;
+            this.spike11.TabStop = false;
+            this.spike11.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox11_Paint);
             // 
-            // Spike10
+            // spike10
             // 
-            this.Spike10.Location = new System.Drawing.Point(793, 433);
-            this.Spike10.Name = "Spike10";
-            this.Spike10.Size = new System.Drawing.Size(50, 380);
-            this.Spike10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike10.TabIndex = 9;
-            this.Spike10.TabStop = false;
-            this.Spike10.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox10_Paint);
+            this.spike10.Location = new System.Drawing.Point(793, 433);
+            this.spike10.Name = "spike10";
+            this.spike10.Size = new System.Drawing.Size(50, 380);
+            this.spike10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike10.TabIndex = 9;
+            this.spike10.TabStop = false;
+            this.spike10.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox10_Paint);
             // 
-            // Spike9
+            // spike9
             // 
-            this.Spike9.Location = new System.Drawing.Point(718, 433);
-            this.Spike9.Name = "Spike9";
-            this.Spike9.Size = new System.Drawing.Size(50, 380);
-            this.Spike9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike9.TabIndex = 8;
-            this.Spike9.TabStop = false;
-            this.Spike9.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox9_Paint);
+            this.spike9.Location = new System.Drawing.Point(718, 433);
+            this.spike9.Name = "spike9";
+            this.spike9.Size = new System.Drawing.Size(50, 380);
+            this.spike9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike9.TabIndex = 8;
+            this.spike9.TabStop = false;
+            this.spike9.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox9_Paint);
             // 
-            // Spike8
+            // spike8
             // 
-            this.Spike8.Location = new System.Drawing.Point(643, 433);
-            this.Spike8.Name = "Spike8";
-            this.Spike8.Size = new System.Drawing.Size(50, 380);
-            this.Spike8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike8.TabIndex = 7;
-            this.Spike8.TabStop = false;
-            this.Spike8.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox8_Paint);
+            this.spike8.Location = new System.Drawing.Point(643, 433);
+            this.spike8.Name = "spike8";
+            this.spike8.Size = new System.Drawing.Size(50, 380);
+            this.spike8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike8.TabIndex = 7;
+            this.spike8.TabStop = false;
+            this.spike8.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox8_Paint);
             // 
-            // Spike7
+            // spike7
             // 
-            this.Spike7.Location = new System.Drawing.Point(568, 433);
-            this.Spike7.Name = "Spike7";
-            this.Spike7.Size = new System.Drawing.Size(50, 380);
-            this.Spike7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike7.TabIndex = 6;
-            this.Spike7.TabStop = false;
-            this.Spike7.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox7_Paint);
+            this.spike7.Location = new System.Drawing.Point(568, 433);
+            this.spike7.Name = "spike7";
+            this.spike7.Size = new System.Drawing.Size(50, 380);
+            this.spike7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike7.TabIndex = 6;
+            this.spike7.TabStop = false;
+            this.spike7.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox7_Paint);
             // 
-            // Spike6
+            // spike6
             // 
-            this.Spike6.Location = new System.Drawing.Point(418, 433);
-            this.Spike6.Name = "Spike6";
-            this.Spike6.Size = new System.Drawing.Size(50, 380);
-            this.Spike6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike6.TabIndex = 5;
-            this.Spike6.TabStop = false;
-            this.Spike6.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox6_Paint);
+            this.spike6.Location = new System.Drawing.Point(418, 433);
+            this.spike6.Name = "spike6";
+            this.spike6.Size = new System.Drawing.Size(50, 380);
+            this.spike6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike6.TabIndex = 5;
+            this.spike6.TabStop = false;
+            this.spike6.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox6_Paint);
             // 
-            // Spike5
+            // spike5
             // 
-            this.Spike5.Location = new System.Drawing.Point(343, 433);
-            this.Spike5.Name = "Spike5";
-            this.Spike5.Size = new System.Drawing.Size(50, 380);
-            this.Spike5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike5.TabIndex = 4;
-            this.Spike5.TabStop = false;
-            this.Spike5.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox5_Paint);
+            this.spike5.Location = new System.Drawing.Point(343, 433);
+            this.spike5.Name = "spike5";
+            this.spike5.Size = new System.Drawing.Size(50, 380);
+            this.spike5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike5.TabIndex = 4;
+            this.spike5.TabStop = false;
+            this.spike5.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox5_Paint);
             // 
-            // Spike4
+            // spike4
             // 
-            this.Spike4.Location = new System.Drawing.Point(268, 433);
-            this.Spike4.Name = "Spike4";
-            this.Spike4.Size = new System.Drawing.Size(50, 380);
-            this.Spike4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike4.TabIndex = 3;
-            this.Spike4.TabStop = false;
-            this.Spike4.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox4_Paint);
+            this.spike4.Location = new System.Drawing.Point(268, 433);
+            this.spike4.Name = "spike4";
+            this.spike4.Size = new System.Drawing.Size(50, 380);
+            this.spike4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike4.TabIndex = 3;
+            this.spike4.TabStop = false;
+            this.spike4.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox4_Paint);
             // 
-            // Spike3
+            // spike3
             // 
-            this.Spike3.Location = new System.Drawing.Point(193, 433);
-            this.Spike3.Name = "Spike3";
-            this.Spike3.Size = new System.Drawing.Size(50, 380);
-            this.Spike3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike3.TabIndex = 2;
-            this.Spike3.TabStop = false;
-            this.Spike3.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox3_Paint);
+            this.spike3.Location = new System.Drawing.Point(193, 433);
+            this.spike3.Name = "spike3";
+            this.spike3.Size = new System.Drawing.Size(50, 380);
+            this.spike3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike3.TabIndex = 2;
+            this.spike3.TabStop = false;
+            this.spike3.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox3_Paint);
             // 
-            // Spike2
+            // spike2
             // 
-            this.Spike2.Location = new System.Drawing.Point(118, 433);
-            this.Spike2.Name = "Spike2";
-            this.Spike2.Size = new System.Drawing.Size(50, 380);
-            this.Spike2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike2.TabIndex = 1;
-            this.Spike2.TabStop = false;
-            this.Spike2.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox2_Paint);
+            this.spike2.Location = new System.Drawing.Point(118, 433);
+            this.spike2.Name = "spike2";
+            this.spike2.Size = new System.Drawing.Size(50, 380);
+            this.spike2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike2.TabIndex = 1;
+            this.spike2.TabStop = false;
+            this.spike2.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox2_Paint);
             // 
-            // Spike1
+            // spike1
             // 
-            this.Spike1.Location = new System.Drawing.Point(43, 433);
-            this.Spike1.Name = "Spike1";
-            this.Spike1.Size = new System.Drawing.Size(50, 380);
-            this.Spike1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.Spike1.TabIndex = 0;
-            this.Spike1.TabStop = false;
-            this.Spike1.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox1_Paint);
+            this.spike1.Location = new System.Drawing.Point(43, 433);
+            this.spike1.Name = "spike1";
+            this.spike1.Size = new System.Drawing.Size(50, 380);
+            this.spike1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spike1.TabIndex = 0;
+            this.spike1.TabStop = false;
+            this.spike1.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox1_Paint);
             // 
-            // Dices
+            // dices
             // 
-            this.Dices.Location = new System.Drawing.Point(1175, 272);
-            this.Dices.Name = "Dices";
-            this.Dices.Size = new System.Drawing.Size(221, 100);
-            this.Dices.TabIndex = 56;
-            this.Dices.TabStop = false;
+            this.dices.Location = new System.Drawing.Point(1175, 272);
+            this.dices.Name = "dices";
+            this.dices.Size = new System.Drawing.Size(221, 100);
+            this.dices.TabIndex = 56;
+            this.dices.TabStop = false;
             // 
             // Throw
             // 
@@ -432,306 +432,305 @@
             this.Throw.UseVisualStyleBackColor = true;
             this.Throw.Click += new System.EventHandler(this.Throw_Click);
             // 
-            // WhiteStone13
+            // whiteStone13
             // 
-            this.WhiteStone13.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone13.Location = new System.Drawing.Point(558, 170);
-            this.WhiteStone13.Name = "WhiteStone13";
-            this.WhiteStone13.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone13.TabIndex = 55;
-            this.WhiteStone13.TabStop = false;
+            this.whiteStone13.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone13.Location = new System.Drawing.Point(558, 170);
+            this.whiteStone13.Name = "whiteStone13";
+            this.whiteStone13.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone13.TabIndex = 55;
+            this.whiteStone13.TabStop = false;
             // 
-            // WhiteStone11
+            // whiteStone11
             // 
-            this.WhiteStone11.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone11.Location = new System.Drawing.Point(558, 38);
-            this.WhiteStone11.Name = "WhiteStone11";
-            this.WhiteStone11.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone11.TabIndex = 54;
-            this.WhiteStone11.TabStop = false;
+            this.whiteStone11.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone11.Location = new System.Drawing.Point(558, 38);
+            this.whiteStone11.Name = "whiteStone11";
+            this.whiteStone11.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone11.TabIndex = 54;
+            this.whiteStone11.TabStop = false;
             // 
-            // WhiteStone1
+            // whiteStone1
             // 
-            this.WhiteStone1.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone1.Location = new System.Drawing.Point(933, 743);
-            this.WhiteStone1.Name = "WhiteStone1";
-            this.WhiteStone1.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone1.TabIndex = 53;
-            this.WhiteStone1.TabStop = false;
+            this.whiteStone1.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone1.Location = new System.Drawing.Point(933, 743);
+            this.whiteStone1.Name = "whiteStone1";
+            this.whiteStone1.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone1.TabIndex = 53;
+            this.whiteStone1.TabStop = false;
             // 
-            // WhiteStone15
+            // whiteStone15
             // 
-            this.WhiteStone15.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone15.Location = new System.Drawing.Point(558, 302);
-            this.WhiteStone15.Name = "WhiteStone15";
-            this.WhiteStone15.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone15.TabIndex = 52;
-            this.WhiteStone15.TabStop = false;
+            this.whiteStone15.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone15.Location = new System.Drawing.Point(558, 302);
+            this.whiteStone15.Name = "whiteStone15";
+            this.whiteStone15.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone15.TabIndex = 52;
+            this.whiteStone15.TabStop = false;
             // 
-            // WhiteStone14
+            // whiteStone14
             // 
-            this.WhiteStone14.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone14.Location = new System.Drawing.Point(558, 236);
-            this.WhiteStone14.Name = "WhiteStone14";
-            this.WhiteStone14.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone14.TabIndex = 51;
-            this.WhiteStone14.TabStop = false;
+            this.whiteStone14.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone14.Location = new System.Drawing.Point(558, 236);
+            this.whiteStone14.Name = "whiteStone14";
+            this.whiteStone14.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone14.TabIndex = 51;
+            this.whiteStone14.TabStop = false;
             // 
-            // WhiteStone12
+            // whiteStone12
             // 
-            this.WhiteStone12.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone12.Location = new System.Drawing.Point(558, 104);
-            this.WhiteStone12.Name = "WhiteStone12";
-            this.WhiteStone12.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone12.TabIndex = 50;
-            this.WhiteStone12.TabStop = false;
+            this.whiteStone12.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone12.Location = new System.Drawing.Point(558, 104);
+            this.whiteStone12.Name = "whiteStone12";
+            this.whiteStone12.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone12.TabIndex = 50;
+            this.whiteStone12.TabStop = false;
             // 
-            // WhiteStone10
+            // whiteStone10
             // 
-            this.WhiteStone10.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone10.Location = new System.Drawing.Point(333, 170);
-            this.WhiteStone10.Name = "WhiteStone10";
-            this.WhiteStone10.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone10.TabIndex = 49;
-            this.WhiteStone10.TabStop = false;
+            this.whiteStone10.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone10.Location = new System.Drawing.Point(333, 170);
+            this.whiteStone10.Name = "whiteStone10";
+            this.whiteStone10.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone10.TabIndex = 49;
+            this.whiteStone10.TabStop = false;
             // 
-            // WhiteStone9
+            // whiteStone9
             // 
-            this.WhiteStone9.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone9.Location = new System.Drawing.Point(333, 104);
-            this.WhiteStone9.Name = "WhiteStone9";
-            this.WhiteStone9.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone9.TabIndex = 48;
-            this.WhiteStone9.TabStop = false;
+            this.whiteStone9.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone9.Location = new System.Drawing.Point(333, 104);
+            this.whiteStone9.Name = "whiteStone9";
+            this.whiteStone9.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone9.TabIndex = 48;
+            this.whiteStone9.TabStop = false;
             // 
-            // WhiteStone8
+            // whiteStone8
             // 
-            this.WhiteStone8.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone8.Location = new System.Drawing.Point(333, 38);
-            this.WhiteStone8.Name = "WhiteStone8";
-            this.WhiteStone8.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone8.TabIndex = 47;
-            this.WhiteStone8.TabStop = false;
+            this.whiteStone8.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone8.Location = new System.Drawing.Point(333, 38);
+            this.whiteStone8.Name = "whiteStone8";
+            this.whiteStone8.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone8.TabIndex = 47;
+            this.whiteStone8.TabStop = false;
             // 
-            // WhiteStone5
+            // whiteStone5
             // 
-            this.WhiteStone5.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone5.Location = new System.Drawing.Point(33, 607);
-            this.WhiteStone5.Name = "WhiteStone5";
-            this.WhiteStone5.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone5.TabIndex = 46;
-            this.WhiteStone5.TabStop = false;
+            this.whiteStone5.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone5.Location = new System.Drawing.Point(33, 607);
+            this.whiteStone5.Name = "whiteStone5";
+            this.whiteStone5.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone5.TabIndex = 46;
+            this.whiteStone5.TabStop = false;
             // 
-            // WhiteStone4
+            // whiteStone4
             // 
-            this.WhiteStone4.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone4.Location = new System.Drawing.Point(33, 674);
-            this.WhiteStone4.Name = "WhiteStone4";
-            this.WhiteStone4.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone4.TabIndex = 45;
-            this.WhiteStone4.TabStop = false;
+            this.whiteStone4.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone4.Location = new System.Drawing.Point(33, 674);
+            this.whiteStone4.Name = "whiteStone4";
+            this.whiteStone4.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone4.TabIndex = 45;
+            this.whiteStone4.TabStop = false;
             // 
-            // WhiteStone3
+            // whiteStone3
             // 
-            this.WhiteStone3.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone3.Location = new System.Drawing.Point(33, 743);
-            this.WhiteStone3.Name = "WhiteStone3";
-            this.WhiteStone3.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone3.TabIndex = 44;
-            this.WhiteStone3.TabStop = false;
+            this.whiteStone3.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone3.Location = new System.Drawing.Point(33, 743);
+            this.whiteStone3.Name = "whiteStone3";
+            this.whiteStone3.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone3.TabIndex = 44;
+            this.whiteStone3.TabStop = false;
             // 
-            // WhiteStone7
+            // whiteStone7
             // 
-            this.WhiteStone7.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone7.Location = new System.Drawing.Point(33, 474);
-            this.WhiteStone7.Name = "WhiteStone7";
-            this.WhiteStone7.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone7.TabIndex = 43;
-            this.WhiteStone7.TabStop = false;
+            this.whiteStone7.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone7.Location = new System.Drawing.Point(33, 474);
+            this.whiteStone7.Name = "whiteStone7";
+            this.whiteStone7.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone7.TabIndex = 43;
+            this.whiteStone7.TabStop = false;
             // 
-            // WhiteStone6
+            // whiteStone6
             // 
-            this.WhiteStone6.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone6.Location = new System.Drawing.Point(33, 541);
-            this.WhiteStone6.Name = "WhiteStone6";
-            this.WhiteStone6.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone6.TabIndex = 42;
-            this.WhiteStone6.TabStop = false;
+            this.whiteStone6.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone6.Location = new System.Drawing.Point(33, 541);
+            this.whiteStone6.Name = "whiteStone6";
+            this.whiteStone6.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone6.TabIndex = 42;
+            this.whiteStone6.TabStop = false;
             // 
-            // WhiteStone2
+            // whiteStone2
             // 
-            this.WhiteStone2.Image = global::Backgammon.Properties.Resources.bílý_kámen;
-            this.WhiteStone2.Location = new System.Drawing.Point(933, 674);
-            this.WhiteStone2.Name = "WhiteStone2";
-            this.WhiteStone2.Size = new System.Drawing.Size(70, 70);
-            this.WhiteStone2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.WhiteStone2.TabIndex = 41;
-            this.WhiteStone2.TabStop = false;
+            this.whiteStone2.Image = global::Backgammon.Properties.Resources.bílý_kámen;
+            this.whiteStone2.Location = new System.Drawing.Point(933, 674);
+            this.whiteStone2.Name = "whiteStone2";
+            this.whiteStone2.Size = new System.Drawing.Size(70, 70);
+            this.whiteStone2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.whiteStone2.TabIndex = 41;
+            this.whiteStone2.TabStop = false;
             // 
-            // BlackStone11
+            // blackStone11
             // 
-            this.BlackStone11.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone11.Location = new System.Drawing.Point(558, 743);
-            this.BlackStone11.Name = "BlackStone11";
-            this.BlackStone11.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone11.TabIndex = 40;
-            this.BlackStone11.TabStop = false;
+            this.blackStone11.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone11.Location = new System.Drawing.Point(558, 743);
+            this.blackStone11.Name = "blackStone11";
+            this.blackStone11.Size = new System.Drawing.Size(70, 70);
+            this.blackStone11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone11.TabIndex = 40;
+            this.blackStone11.TabStop = false;
             // 
-            // BlackStone13
+            // blackStone13
             // 
-            this.BlackStone13.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone13.Location = new System.Drawing.Point(558, 607);
-            this.BlackStone13.Name = "BlackStone13";
-            this.BlackStone13.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone13.TabIndex = 39;
-            this.BlackStone13.TabStop = false;
+            this.blackStone13.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone13.Location = new System.Drawing.Point(558, 607);
+            this.blackStone13.Name = "blackStone13";
+            this.blackStone13.Size = new System.Drawing.Size(70, 70);
+            this.blackStone13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone13.TabIndex = 39;
+            this.blackStone13.TabStop = false;
             // 
-            // BlackStone12
+            // blackStone12
             // 
-            this.BlackStone12.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone12.Location = new System.Drawing.Point(558, 674);
-            this.BlackStone12.Name = "BlackStone12";
-            this.BlackStone12.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone12.TabIndex = 38;
-            this.BlackStone12.TabStop = false;
+            this.blackStone12.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone12.Location = new System.Drawing.Point(558, 674);
+            this.blackStone12.Name = "blackStone12";
+            this.blackStone12.Size = new System.Drawing.Size(70, 70);
+            this.blackStone12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone12.TabIndex = 38;
+            this.blackStone12.TabStop = false;
             // 
-            // BlackStone15
+            // blackStone15
             // 
-            this.BlackStone15.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone15.Location = new System.Drawing.Point(558, 474);
-            this.BlackStone15.Name = "BlackStone15";
-            this.BlackStone15.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone15.TabIndex = 37;
-            this.BlackStone15.TabStop = false;
+            this.blackStone15.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone15.Location = new System.Drawing.Point(558, 474);
+            this.blackStone15.Name = "blackStone15";
+            this.blackStone15.Size = new System.Drawing.Size(70, 70);
+            this.blackStone15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone15.TabIndex = 37;
+            this.blackStone15.TabStop = false;
             // 
-            // BlackStone8
+            // blackStone8
             // 
-            this.BlackStone8.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone8.Location = new System.Drawing.Point(333, 743);
-            this.BlackStone8.Name = "BlackStone8";
-            this.BlackStone8.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone8.TabIndex = 36;
-            this.BlackStone8.TabStop = false;
+            this.blackStone8.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone8.Location = new System.Drawing.Point(333, 743);
+            this.blackStone8.Name = "blackStone8";
+            this.blackStone8.Size = new System.Drawing.Size(70, 70);
+            this.blackStone8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone8.TabIndex = 36;
+            this.blackStone8.TabStop = false;
             // 
-            // BlackStone9
+            // blackStone9
             // 
-            this.BlackStone9.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone9.Location = new System.Drawing.Point(333, 674);
-            this.BlackStone9.Name = "BlackStone9";
-            this.BlackStone9.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone9.TabIndex = 35;
-            this.BlackStone9.TabStop = false;
+            this.blackStone9.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone9.Location = new System.Drawing.Point(333, 674);
+            this.blackStone9.Name = "blackStone9";
+            this.blackStone9.Size = new System.Drawing.Size(70, 70);
+            this.blackStone9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone9.TabIndex = 35;
+            this.blackStone9.TabStop = false;
             // 
-            // BlackStone6
+            // blackStone6
             // 
-            this.BlackStone6.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone6.Location = new System.Drawing.Point(33, 236);
-            this.BlackStone6.Name = "BlackStone6";
-            this.BlackStone6.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone6.TabIndex = 34;
-            this.BlackStone6.TabStop = false;
+            this.blackStone6.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone6.Location = new System.Drawing.Point(33, 236);
+            this.blackStone6.Name = "blackStone6";
+            this.blackStone6.Size = new System.Drawing.Size(70, 70);
+            this.blackStone6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone6.TabIndex = 34;
+            this.blackStone6.TabStop = false;
             // 
-            // BlackStone7
+            // blackStone7
             // 
-            this.BlackStone7.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone7.Location = new System.Drawing.Point(33, 302);
-            this.BlackStone7.Name = "BlackStone7";
-            this.BlackStone7.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone7.TabIndex = 33;
-            this.BlackStone7.TabStop = false;
+            this.blackStone7.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone7.Location = new System.Drawing.Point(33, 302);
+            this.blackStone7.Name = "blackStone7";
+            this.blackStone7.Size = new System.Drawing.Size(70, 70);
+            this.blackStone7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone7.TabIndex = 33;
+            this.blackStone7.TabStop = false;
             // 
-            // BlackStone10
+            // blackStone10
             // 
-            this.BlackStone10.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone10.Location = new System.Drawing.Point(333, 607);
-            this.BlackStone10.Name = "BlackStone10";
-            this.BlackStone10.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone10.TabIndex = 32;
-            this.BlackStone10.TabStop = false;
+            this.blackStone10.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone10.Location = new System.Drawing.Point(333, 607);
+            this.blackStone10.Name = "blackStone10";
+            this.blackStone10.Size = new System.Drawing.Size(70, 70);
+            this.blackStone10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone10.TabIndex = 32;
+            this.blackStone10.TabStop = false;
             // 
-            // BlackStone5
+            // blackStone5
             // 
-            this.BlackStone5.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone5.Location = new System.Drawing.Point(33, 170);
-            this.BlackStone5.Name = "BlackStone5";
-            this.BlackStone5.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone5.TabIndex = 31;
-            this.BlackStone5.TabStop = false;
+            this.blackStone5.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone5.Location = new System.Drawing.Point(33, 170);
+            this.blackStone5.Name = "blackStone5";
+            this.blackStone5.Size = new System.Drawing.Size(70, 70);
+            this.blackStone5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone5.TabIndex = 31;
+            this.blackStone5.TabStop = false;
             // 
-            // BlackStone4
+            // blackStone4
             // 
-            this.BlackStone4.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone4.Location = new System.Drawing.Point(33, 104);
-            this.BlackStone4.Name = "BlackStone4";
-            this.BlackStone4.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone4.TabIndex = 30;
-            this.BlackStone4.TabStop = false;
+            this.blackStone4.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone4.Location = new System.Drawing.Point(33, 104);
+            this.blackStone4.Name = "blackStone4";
+            this.blackStone4.Size = new System.Drawing.Size(70, 70);
+            this.blackStone4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone4.TabIndex = 30;
+            this.blackStone4.TabStop = false;
             // 
-            // BlackStone3
+            // blackStone3
             // 
-            this.BlackStone3.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone3.Location = new System.Drawing.Point(33, 38);
-            this.BlackStone3.Name = "BlackStone3";
-            this.BlackStone3.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone3.TabIndex = 29;
-            this.BlackStone3.TabStop = false;
+            this.blackStone3.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone3.Location = new System.Drawing.Point(33, 38);
+            this.blackStone3.Name = "blackStone3";
+            this.blackStone3.Size = new System.Drawing.Size(70, 70);
+            this.blackStone3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone3.TabIndex = 29;
+            this.blackStone3.TabStop = false;
             // 
-            // BlackStone14
+            // blackStone14
             // 
-            this.BlackStone14.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone14.Location = new System.Drawing.Point(558, 541);
-            this.BlackStone14.Name = "BlackStone14";
-            this.BlackStone14.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone14.TabIndex = 28;
-            this.BlackStone14.TabStop = false;
+            this.blackStone14.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone14.Location = new System.Drawing.Point(558, 541);
+            this.blackStone14.Name = "blackStone14";
+            this.blackStone14.Size = new System.Drawing.Size(70, 70);
+            this.blackStone14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone14.TabIndex = 28;
+            this.blackStone14.TabStop = false;
             // 
-            // BlackStone2
+            // blackStone2
             // 
-            this.BlackStone2.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone2.Location = new System.Drawing.Point(933, 104);
-            this.BlackStone2.Name = "BlackStone2";
-            this.BlackStone2.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone2.TabIndex = 27;
-            this.BlackStone2.TabStop = false;
+            this.blackStone2.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone2.Location = new System.Drawing.Point(933, 104);
+            this.blackStone2.Name = "blackStone2";
+            this.blackStone2.Size = new System.Drawing.Size(70, 70);
+            this.blackStone2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone2.TabIndex = 27;
+            this.blackStone2.TabStop = false;
             // 
-            // BlackStone1
+            // blackStone1
             // 
-            this.BlackStone1.Image = global::Backgammon.Properties.Resources.černý_kámen;
-            this.BlackStone1.Location = new System.Drawing.Point(933, 38);
-            this.BlackStone1.Name = "BlackStone1";
-            this.BlackStone1.Size = new System.Drawing.Size(70, 70);
-            this.BlackStone1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.BlackStone1.TabIndex = 26;
-            this.BlackStone1.TabStop = false;
-            
+            this.blackStone1.Image = global::Backgammon.Properties.Resources.černý_kámen;
+            this.blackStone1.Location = new System.Drawing.Point(933, 38);
+            this.blackStone1.Name = "blackStone1";
+            this.blackStone1.Size = new System.Drawing.Size(70, 70);
+            this.blackStone1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.blackStone1.TabIndex = 26;
+            this.blackStone1.TabStop = false;
             // 
             // Form1
             // 
@@ -739,189 +738,189 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1424, 847);
             this.Controls.Add(this.Throw);
-            this.Controls.Add(this.Dices);
-            this.Controls.Add(this.WhiteStone13);
-            this.Controls.Add(this.WhiteStone11);
-            this.Controls.Add(this.WhiteStone1);
-            this.Controls.Add(this.WhiteStone15);
-            this.Controls.Add(this.WhiteStone14);
-            this.Controls.Add(this.WhiteStone12);
-            this.Controls.Add(this.WhiteStone10);
-            this.Controls.Add(this.WhiteStone9);
-            this.Controls.Add(this.WhiteStone8);
-            this.Controls.Add(this.WhiteStone5);
-            this.Controls.Add(this.WhiteStone4);
-            this.Controls.Add(this.WhiteStone3);
-            this.Controls.Add(this.WhiteStone7);
-            this.Controls.Add(this.WhiteStone6);
-            this.Controls.Add(this.WhiteStone2);
-            this.Controls.Add(this.BlackStone11);
-            this.Controls.Add(this.BlackStone13);
-            this.Controls.Add(this.BlackStone12);
-            this.Controls.Add(this.BlackStone15);
-            this.Controls.Add(this.BlackStone8);
-            this.Controls.Add(this.BlackStone9);
-            this.Controls.Add(this.BlackStone6);
-            this.Controls.Add(this.BlackStone7);
-            this.Controls.Add(this.BlackStone10);
-            this.Controls.Add(this.BlackStone5);
-            this.Controls.Add(this.BlackStone4);
-            this.Controls.Add(this.BlackStone3);
-            this.Controls.Add(this.BlackStone14);
-            this.Controls.Add(this.BlackStone2);
-            this.Controls.Add(this.BlackStone1);
-            this.Controls.Add(this.BlackHouse);
-            this.Controls.Add(this.WhiteHouse);
-            this.Controls.Add(this.Prison);
-            this.Controls.Add(this.Spike24);
-            this.Controls.Add(this.Spike23);
-            this.Controls.Add(this.Spike22);
-            this.Controls.Add(this.Spike21);
-            this.Controls.Add(this.Spike20);
-            this.Controls.Add(this.Spike19);
-            this.Controls.Add(this.Spike18);
-            this.Controls.Add(this.Spike17);
-            this.Controls.Add(this.Spike16);
-            this.Controls.Add(this.Spike15);
-            this.Controls.Add(this.Spike14);
-            this.Controls.Add(this.Spike13);
-            this.Controls.Add(this.Spike12);
-            this.Controls.Add(this.Spike11);
-            this.Controls.Add(this.Spike10);
-            this.Controls.Add(this.Spike9);
-            this.Controls.Add(this.Spike8);
-            this.Controls.Add(this.Spike7);
-            this.Controls.Add(this.Spike6);
-            this.Controls.Add(this.Spike5);
-            this.Controls.Add(this.Spike4);
-            this.Controls.Add(this.Spike3);
-            this.Controls.Add(this.Spike2);
-            this.Controls.Add(this.Spike1);
+            this.Controls.Add(this.dices);
+            this.Controls.Add(this.whiteStone13);
+            this.Controls.Add(this.whiteStone11);
+            this.Controls.Add(this.whiteStone1);
+            this.Controls.Add(this.whiteStone15);
+            this.Controls.Add(this.whiteStone14);
+            this.Controls.Add(this.whiteStone12);
+            this.Controls.Add(this.whiteStone10);
+            this.Controls.Add(this.whiteStone9);
+            this.Controls.Add(this.whiteStone8);
+            this.Controls.Add(this.whiteStone5);
+            this.Controls.Add(this.whiteStone4);
+            this.Controls.Add(this.whiteStone3);
+            this.Controls.Add(this.whiteStone7);
+            this.Controls.Add(this.whiteStone6);
+            this.Controls.Add(this.whiteStone2);
+            this.Controls.Add(this.blackStone11);
+            this.Controls.Add(this.blackStone13);
+            this.Controls.Add(this.blackStone12);
+            this.Controls.Add(this.blackStone15);
+            this.Controls.Add(this.blackStone8);
+            this.Controls.Add(this.blackStone9);
+            this.Controls.Add(this.blackStone6);
+            this.Controls.Add(this.blackStone7);
+            this.Controls.Add(this.blackStone10);
+            this.Controls.Add(this.blackStone5);
+            this.Controls.Add(this.blackStone4);
+            this.Controls.Add(this.blackStone3);
+            this.Controls.Add(this.blackStone14);
+            this.Controls.Add(this.blackStone2);
+            this.Controls.Add(this.blackStone1);
+            this.Controls.Add(this.blackHouse);
+            this.Controls.Add(this.whiteHouse);
+            this.Controls.Add(this.prison);
+            this.Controls.Add(this.spike24);
+            this.Controls.Add(this.spike23);
+            this.Controls.Add(this.spike22);
+            this.Controls.Add(this.spike21);
+            this.Controls.Add(this.spike20);
+            this.Controls.Add(this.spike19);
+            this.Controls.Add(this.spike18);
+            this.Controls.Add(this.spike17);
+            this.Controls.Add(this.spike16);
+            this.Controls.Add(this.spike15);
+            this.Controls.Add(this.spike14);
+            this.Controls.Add(this.spike13);
+            this.Controls.Add(this.spike12);
+            this.Controls.Add(this.spike11);
+            this.Controls.Add(this.spike10);
+            this.Controls.Add(this.spike9);
+            this.Controls.Add(this.spike8);
+            this.Controls.Add(this.spike7);
+            this.Controls.Add(this.spike6);
+            this.Controls.Add(this.spike5);
+            this.Controls.Add(this.spike4);
+            this.Controls.Add(this.spike3);
+            this.Controls.Add(this.spike2);
+            this.Controls.Add(this.spike1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
-            ((System.ComponentModel.ISupportInitialize)(this.BlackHouse)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteHouse)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Prison)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike24)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike23)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike22)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike21)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike20)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike19)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike18)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike17)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike16)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike15)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike14)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Spike1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Dices)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone15)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone14)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.WhiteStone2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone15)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone14)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BlackStone1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackHouse)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteHouse)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.prison)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike24)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike23)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike22)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike21)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike20)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike19)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike18)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike17)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike16)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike15)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spike1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dices)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone15)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.whiteStone2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone15)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blackStone1)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.PictureBox Spike1;
-        private System.Windows.Forms.PictureBox Spike2;
-        private System.Windows.Forms.PictureBox Spike3;
-        private System.Windows.Forms.PictureBox Spike4;
-        private System.Windows.Forms.PictureBox Spike5;
-        private System.Windows.Forms.PictureBox Spike6;
-        private System.Windows.Forms.PictureBox Spike7;
-        private System.Windows.Forms.PictureBox Spike8;
-        private System.Windows.Forms.PictureBox Spike9;
-        private System.Windows.Forms.PictureBox Spike10;
-        private System.Windows.Forms.PictureBox Spike11;
-        private System.Windows.Forms.PictureBox Spike12;
-        private System.Windows.Forms.PictureBox Spike13;
-        private System.Windows.Forms.PictureBox Spike14;
-        private System.Windows.Forms.PictureBox Spike15;
-        private System.Windows.Forms.PictureBox Spike16;
-        private System.Windows.Forms.PictureBox Spike17;
-        private System.Windows.Forms.PictureBox Spike18;
-        private System.Windows.Forms.PictureBox Spike19;
-        private System.Windows.Forms.PictureBox Spike20;
-        private System.Windows.Forms.PictureBox Spike21;
-        private System.Windows.Forms.PictureBox Spike22;
-        private System.Windows.Forms.PictureBox Spike23;
-        private System.Windows.Forms.PictureBox Spike24;
-        private System.Windows.Forms.PictureBox Prison;
-        private System.Windows.Forms.PictureBox WhiteHouse;
-        private System.Windows.Forms.PictureBox BlackHouse;
-        private CircularPictureBox BlackStone1;
-        private CircularPictureBox BlackStone2;
-        private CircularPictureBox BlackStone14;
-        private CircularPictureBox BlackStone3;
-        private CircularPictureBox BlackStone4;
-        private CircularPictureBox BlackStone5;
-        private CircularPictureBox BlackStone10;
-        private CircularPictureBox BlackStone7;
-        private CircularPictureBox BlackStone6;
-        private CircularPictureBox BlackStone9;
-        private CircularPictureBox BlackStone8;
-        private CircularPictureBox BlackStone15;
-        private CircularPictureBox BlackStone12;
-        private CircularPictureBox BlackStone13;
-        private CircularPictureBox BlackStone11;
-        private CircularPictureBox WhiteStone2;
-        private CircularPictureBox WhiteStone6;
-        private CircularPictureBox WhiteStone7;
-        private CircularPictureBox WhiteStone3;
-        private CircularPictureBox WhiteStone4;
-        private CircularPictureBox WhiteStone5;
-        private CircularPictureBox WhiteStone8;
-        private CircularPictureBox WhiteStone9;
-        private CircularPictureBox WhiteStone10;
-        private CircularPictureBox WhiteStone12;
-        private CircularPictureBox WhiteStone14;
-        private CircularPictureBox WhiteStone15;
-        private CircularPictureBox WhiteStone1;
-        private CircularPictureBox WhiteStone11;
-        private CircularPictureBox WhiteStone13;
-        private System.Windows.Forms.PictureBox Dices;
+        private System.Windows.Forms.PictureBox spike1;
+        private System.Windows.Forms.PictureBox spike2;
+        private System.Windows.Forms.PictureBox spike3;
+        private System.Windows.Forms.PictureBox spike4;
+        private System.Windows.Forms.PictureBox spike5;
+        private System.Windows.Forms.PictureBox spike6;
+        private System.Windows.Forms.PictureBox spike7;
+        private System.Windows.Forms.PictureBox spike8;
+        private System.Windows.Forms.PictureBox spike9;
+        private System.Windows.Forms.PictureBox spike10;
+        private System.Windows.Forms.PictureBox spike11;
+        private System.Windows.Forms.PictureBox spike12;
+        private System.Windows.Forms.PictureBox spike13;
+        private System.Windows.Forms.PictureBox spike14;
+        private System.Windows.Forms.PictureBox spike15;
+        private System.Windows.Forms.PictureBox spike16;
+        private System.Windows.Forms.PictureBox spike17;
+        private System.Windows.Forms.PictureBox spike18;
+        private System.Windows.Forms.PictureBox spike19;
+        private System.Windows.Forms.PictureBox spike20;
+        private System.Windows.Forms.PictureBox spike21;
+        private System.Windows.Forms.PictureBox spike22;
+        private System.Windows.Forms.PictureBox spike23;
+        private System.Windows.Forms.PictureBox spike24;
+        private System.Windows.Forms.PictureBox prison;
+        private System.Windows.Forms.PictureBox whiteHouse;
+        private System.Windows.Forms.PictureBox blackHouse;
+        private CircularPictureBox blackStone1;
+        private CircularPictureBox blackStone2;
+        private CircularPictureBox blackStone14;
+        private CircularPictureBox blackStone3;
+        private CircularPictureBox blackStone4;
+        private CircularPictureBox blackStone5;
+        private CircularPictureBox blackStone10;
+        private CircularPictureBox blackStone7;
+        private CircularPictureBox blackStone6;
+        private CircularPictureBox blackStone9;
+        private CircularPictureBox blackStone8;
+        private CircularPictureBox blackStone15;
+        private CircularPictureBox blackStone12;
+        private CircularPictureBox blackStone13;
+        private CircularPictureBox blackStone11;
+        private CircularPictureBox whiteStone2;
+        private CircularPictureBox whiteStone6;
+        private CircularPictureBox whiteStone7;
+        private CircularPictureBox whiteStone3;
+        private CircularPictureBox whiteStone4;
+        private CircularPictureBox whiteStone5;
+        private CircularPictureBox whiteStone8;
+        private CircularPictureBox whiteStone9;
+        private CircularPictureBox whiteStone10;
+        private CircularPictureBox whiteStone12;
+        private CircularPictureBox whiteStone14;
+        private CircularPictureBox whiteStone15;
+        private CircularPictureBox whiteStone1;
+        private CircularPictureBox whiteStone11;
+        private CircularPictureBox whiteStone13;
+        private System.Windows.Forms.PictureBox dices;
         private System.Windows.Forms.Button Throw;
     }
 }

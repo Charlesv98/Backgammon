@@ -26,108 +26,108 @@ namespace Backgammon
         private void pictureBox1_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
         private void pictureBox2_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
         private void pictureBox3_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
         private void pictureBox4_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Red  , points);
         }
 
         private void pictureBox5_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
         private void pictureBox6_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
         private void pictureBox7_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
         private void pictureBox8_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
         private void pictureBox9_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
         private void pictureBox10_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
         private void pictureBox11_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
             
         private void pictureBox12_Paint(object sender, PaintEventArgs e)
         {
             Point[] points = new Point[3];
-            points[0] = new Point(0, Spike1.Height);
-            points[1] = new Point(Spike1.Width / 2, 0);
-            points[2] = new Point(Spike1.Width, Spike1.Height);
+            points[0] = new Point(0, spike1.Height);
+            points[1] = new Point(spike1.Width / 2, 0);
+            points[2] = new Point(spike1.Width, spike1.Height);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
@@ -135,8 +135,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
@@ -144,8 +144,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
@@ -153,8 +153,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
@@ -162,8 +162,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
@@ -171,8 +171,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
@@ -180,8 +180,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
@@ -189,8 +189,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
@@ -198,8 +198,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
@@ -207,8 +207,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
@@ -216,8 +216,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
@@ -225,8 +225,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Red, points);
         }
 
@@ -234,8 +234,8 @@ namespace Backgammon
         {
             Point[] points = new Point[3];
             points[0] = new Point(0, 0);
-            points[1] = new Point(Spike1.Width / 2, Spike1.Height);
-            points[2] = new Point(Spike1.Width, 0);
+            points[1] = new Point(spike1.Width / 2, spike1.Height);
+            points[2] = new Point(spike1.Width, 0);
             e.Graphics.FillPolygon(Brushes.Blue, points);
         }
 
@@ -266,7 +266,7 @@ namespace Backgammon
             int dice1 = rnd.Next(1, 7);
             int dice2 = rnd.Next(1, 7);
 
-            Bitmap bmp = new Bitmap(Dices.Width, Dices.Height);
+            Bitmap bmp = new Bitmap(dices.Width, dices.Height);
 
             using (Graphics g = Graphics.FromImage(bmp))
             {
@@ -278,7 +278,7 @@ namespace Backgammon
                 Pen pen = new Pen(Color.Black);
 
             }
-            Dices.Image = bmp;
+            dices.Image = bmp;
         }
 
         
