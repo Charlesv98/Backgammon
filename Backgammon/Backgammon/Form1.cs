@@ -281,10 +281,7 @@ namespace Backgammon
             Dices.Image = bmp;
         }
 
-        private void BlackStone1_Click(object sender, EventArgs e)
-        {
-            ///
-        }
+        
     }
     
 }

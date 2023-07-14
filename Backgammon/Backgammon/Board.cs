@@ -15,18 +15,6 @@ namespace Backgammon
     public class Board
     {
 
-        //private CircularPictureBox[] stones; // hrací kameny
-        //private PictureBox[] spikes; // pole pro hrací místa
-        //private PictureBox[] prison; // pole pro vězení
-        //private PictureBox[] home; // pole pro domečky
-
-        //public Board(PictureBox[] spikeBoxes, PictureBox[] prisonBox, PictureBox[] homeBoxes, CircularPictureBox[] stoneBoxes)
-        //{
-        //    spikes = spikeBoxes;
-        //    prison = prisonBox;
-        //    home = homeBoxes;
-        //    stones = stoneBoxes;
-        //}
 
         private Stack<bool>[] boardArray;
         public void InitializeBoard()
@@ -87,43 +75,6 @@ namespace Backgammon
         int xIndex = 0;
         int yIndex = 0;
 
-        
-
-        private void UpdateBoard()
-        {
-            // Aktualizuje vykreslení hrací desky na základě aktuálního stavu hry.
-        }
-
-        private void MovePiece()
-        {
-            // Přesune hrací kámen z jednoho hracího místa na druhé.
-
-        }
-
-        private void AddPieceToPrison()
-        {
-            // Přidá hrací kámen do vězení pro daného hráče.
-        }
-
-        private void RemovePieceFromPrison()
-        {
-            // Odebere hrací kámen z vězení pro daného hráče.
-        }
-
-        private void AddPieceToHome()
-        {
-            // Přidá hrací kámen do domečku pro daného hráče.
-        }
-
-        private void BoardReading()
-        {
-            // Zaznamenává tahy do nějakého okénka 
-        }
-
-        private void ResetBoard()
-        {
-            // Resetování hrací plochy
-        }
 
     }
 }
