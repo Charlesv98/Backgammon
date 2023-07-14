@@ -57,6 +57,8 @@
             this.spike1 = new System.Windows.Forms.PictureBox();
             this.dices = new System.Windows.Forms.PictureBox();
             this.Throw = new System.Windows.Forms.Button();
+            this.restartButton = new System.Windows.Forms.Button();
+            this.playButton = new System.Windows.Forms.Button();
             this.whiteStone13 = new Backgammon.CircularPictureBox();
             this.whiteStone11 = new Backgammon.CircularPictureBox();
             this.whiteStone1 = new Backgammon.CircularPictureBox();
@@ -416,7 +418,7 @@
             // 
             // dices
             // 
-            this.dices.Location = new System.Drawing.Point(1175, 272);
+            this.dices.Location = new System.Drawing.Point(1175, 433);
             this.dices.Name = "dices";
             this.dices.Size = new System.Drawing.Size(221, 100);
             this.dices.TabIndex = 56;
@@ -424,13 +426,31 @@
             // 
             // Throw
             // 
-            this.Throw.Location = new System.Drawing.Point(1247, 378);
+            this.Throw.Location = new System.Drawing.Point(1250, 539);
             this.Throw.Name = "Throw";
             this.Throw.Size = new System.Drawing.Size(87, 39);
             this.Throw.TabIndex = 57;
             this.Throw.Text = "Throw";
             this.Throw.UseVisualStyleBackColor = true;
             this.Throw.Click += new System.EventHandler(this.Throw_Click);
+            // 
+            // restartButton
+            // 
+            this.restartButton.Location = new System.Drawing.Point(1175, 38);
+            this.restartButton.Name = "restartButton";
+            this.restartButton.Size = new System.Drawing.Size(101, 37);
+            this.restartButton.TabIndex = 58;
+            this.restartButton.Text = "Restart";
+            this.restartButton.UseVisualStyleBackColor = true;
+            // 
+            // playButton
+            // 
+            this.playButton.Location = new System.Drawing.Point(1295, 38);
+            this.playButton.Name = "playButton";
+            this.playButton.Size = new System.Drawing.Size(101, 37);
+            this.playButton.TabIndex = 59;
+            this.playButton.Text = "Play";
+            this.playButton.UseVisualStyleBackColor = true;
             // 
             // whiteStone13
             // 
@@ -737,6 +757,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1424, 847);
+            this.Controls.Add(this.playButton);
+            this.Controls.Add(this.restartButton);
             this.Controls.Add(this.Throw);
             this.Controls.Add(this.dices);
             this.Controls.Add(this.whiteStone13);
@@ -797,7 +819,7 @@
             this.Controls.Add(this.spike2);
             this.Controls.Add(this.spike1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Backgammon";
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
             ((System.ComponentModel.ISupportInitialize)(this.blackHouse)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.whiteHouse)).EndInit();
@@ -922,6 +944,8 @@
         private CircularPictureBox whiteStone13;
         private System.Windows.Forms.PictureBox dices;
         private System.Windows.Forms.Button Throw;
+        private System.Windows.Forms.Button restartButton;
+        private System.Windows.Forms.Button playButton;
     }
 }
 

@@ -281,6 +281,9 @@ namespace Backgammon
             dices.Image = bmp;
         }
 
+
+
+
         
     }
     
